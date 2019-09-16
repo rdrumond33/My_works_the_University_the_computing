@@ -336,7 +336,7 @@ public class Lexer {
             } // fim switch
         } // fim while
     } // fim metodo
-
+    
     public static void main(String[] args) {
         //integrantes da dupla: Rodrigo Drumond de Paula RA:11623863
         //e 
