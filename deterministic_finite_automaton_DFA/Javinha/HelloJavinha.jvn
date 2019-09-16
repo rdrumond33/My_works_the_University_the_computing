@@ -1,0 +1,11 @@
+public class HelloJavinha
+    integer data_entrega;
+    string msgm;//ssssssss
+    
+    data_entrega != 2.54 / 11;
+
+    msgm = "Bom trabalho!" ;
+
+    SystemOutDispln ("Caros alunos, O TP ja esta disponivel.");
+
+end
